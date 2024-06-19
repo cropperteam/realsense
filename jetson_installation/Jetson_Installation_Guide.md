@@ -1,7 +1,3 @@
-Certainly! Here’s the revised installation guide including the detailed steps for cloning the repository, moving into the directory, and running the installation script:
-
----
-
 ### Installation Guide for Librealsense on Jetson Devices
 
 This guide provides instructions to install Intel's librealsense on NVIDIA Jetson devices using scripts from the [JetsonHacksNano repository](https://github.com/JetsonHacksNano/installLibrealsense).
