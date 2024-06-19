@@ -1,3 +1,6 @@
+Certainly! Here’s the revised installation guide including the detailed steps for cloning the repository, moving into the directory, and running the installation script:
+
+---
 
 ### Installation Guide for Librealsense on Jetson Devices
 
@@ -14,11 +17,20 @@ There are two primary ways to install librealsense:
 
 1. **Install from Intel Librealsense Debian Repository**:
     - This method does not require patching the kernel or modules.
-    - Run the following command to install:
-      ```bash
-      ./installLibrealsense.sh
-      ```
-
+    - Follow these steps:
+      1. Clone the JetsonHacksNano repository:
+         ```bash
+         git clone https://github.com/JetsonHacksNano/installLibrealsense.git
+         ```
+      2. Move into the repository directory:
+         ```bash
+         cd installLibrealsense
+         ```
+      3. Run the installation script:
+         ```bash
+         ./installLibrealsense.sh
+         ```
+    - Done!
 
 (Optional-Not We Have Tried)
 
