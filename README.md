@@ -125,7 +125,7 @@ To include this installation guide in your repository, create a separate folder 
 
 ## Jetson Installation Guide
 
-For instructions on installing librealsense on Jetson devices, refer to the [Jetson Installation Guide](./jetson_installation/README.md).
+For instructions on installing librealsense on Jetson devices, refer to the [Jetson Installation Guide](./jetson_installation/Jetson_Installation_Guide.md).
 
 ## License
 
