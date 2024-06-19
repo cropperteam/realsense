@@ -51,4 +51,3 @@ When you run the script and press 's', the YOLOv8 model will process the current
 
 - Ensure the YOLOv8 model file (`node_best_pt_seg.pt`) is correctly placed in the directory or update the script with the correct path.
 - The script uses trigonometric calculations based on the camera's field of view and the detected depth to compute real-world coordinates. Adjust the calculations if you use a different camera or configuration.
-```
