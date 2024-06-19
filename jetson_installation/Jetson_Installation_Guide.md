@@ -19,6 +19,7 @@ There are two primary ways to install librealsense:
       ./installLibrealsense.sh
       ```
 (Optional-Not We Have Tried)
+
 2. **Build Librealsense from Source**:
     - This method is useful if you need to compile from source.
     - Run the following command to build:
