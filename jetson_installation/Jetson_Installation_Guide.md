@@ -7,7 +7,7 @@ This guide provides instructions to install Intel's librealsense on NVIDIA Jetso
 - NVIDIA Jetson Nano Developer Kit
 - Internet connection
 
-#### Installation Options
+## Installation Options
 
 There are two primary ways to install librealsense:
 
@@ -41,7 +41,7 @@ There are two primary ways to install librealsense:
       - `<number of jobs>`: Specify the number of jobs to run concurrently when building. Defaults to 1 if the Jetson has ≤ 4GB memory.
       - `<no_cuda>`: Compile without CUDA support. Defaults to using CUDA.
 
-#### Notes
+### Notes
 
 - The current recommendation from Intel is to use UVC for video input on Jetson devices.
 - If using `realsense-ros`, ensure the versions of librealsense and realsense-ros are compatible.
