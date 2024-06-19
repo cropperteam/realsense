@@ -7,7 +7,7 @@ This repository contains scripts for capturing and processing frames from an Int
 - **capture_and_extract**
   - `capture.py`: Captures frames from the RealSense camera, saves RGB and depth images, and stores depth data in a CSV file.
   - `extract.py`: Extracts the depth value at a specific pixel point from the depth CSV file.
-  - [README.md](./Windows/capture\and\extract\frames/info.md): Documentation for the capture and extract scripts.
+  - [README.md](./Windows/capture%20and%20extract%20frames/info.md): Documentation for the capture and extract scripts.
 
 - **live_testing**
   - `live_testing.py`: Combines live feed capture, YOLOv8 object detection, and depth extraction in one script.
