@@ -47,10 +47,6 @@ RealSense_Depth_Camera_Project/
 
 For instructions on installing librealsense on Jetson devices, refer to the [Jetson Installation Guide](./jetson_installation/Jetson_Installation_Guide.md).
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
 ## Contributing
 
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
