@@ -40,7 +40,6 @@ RealSense_Depth_Camera_Project/
 │   ├── installLibrealsense.sh
 │   ├── buildLibrealsense.sh
 │   ├── README.md
-├── node_best_pt_seg.pt
 └── main_README.md
 ```
 
